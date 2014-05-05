@@ -1,0 +1,14 @@
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\obj\x86\Debug\MainWindow.baml
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\obj\x86\Debug\MainWindow.g.cs
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\obj\x86\Debug\App.g.cs
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\obj\x86\Debug\Saviour_MarkupCompile.cache
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\obj\x86\Debug\Saviour.g.resources
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\obj\x86\Debug\Saviour.Properties.Resources.resources
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\obj\x86\Debug\App.baml
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\bin\Debug\Saviour.exe
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\bin\Debug\Saviour.pdb
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\obj\x86\Debug\Saviour.exe
+D:\Projects\WPF\Miscellaneous\Try out\Saviour\Saviour\obj\x86\Debug\Saviour.pdb
