@@ -1,1 +1,3 @@
-This is a game. Your mission is to pick an emoticon up and try to put it to an island of Life. You have to avoid sharks and do not be gone out of borders.
+This is a simple game written in WPF. The game uses Observer pattern which is already implemented by Windows Presentation Foundation.
+Your mission is to pick an emoticon up and try to put it to an island of Life. You have to avoid sharks and do not be gone out of borders. 
+Have a fun!:)
